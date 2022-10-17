@@ -1,4 +1,5 @@
-public class testacondicional2 { public static void main(String[] args){
+public class testacondicional2 {
+    public static void main(String[] args){
     System.out.println("testando condicionais");
 
     int idade = 16;
